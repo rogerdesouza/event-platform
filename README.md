@@ -14,3 +14,8 @@ VITE
 TAILWIND
    - npm i tailwindcss postcss autoprefixer -D
    - npx tailwind init -p
+
+CMS - Content Management System
+Headless CMS: Traz apenas o painel ADMIN criando API REST ou GRAPHQL, diferente do CMS tradicional -ex wordpress- que tem ADMIN e FRONT;
+Usaremos GRAPHCMS:
+   - Query ou Mutation
